@@ -15,7 +15,7 @@ Each PoC write-up in this directory includes detailed technical documentation of
 
 This repository is a reflection of my learning path in the cybersecurity space. It serves as a technical record of the practical skills I’m developing in penetration testing, vulnerability exploitation, and ethical hacking.
 
-If you're interested in detailed **installation guides, tutorials, or how-to documentation** on setting up security tools, check out my other repository: **[Cybersecurity Docs](https://github.com/AhsanA3/Cybersecurity-Technical-Writing/Cybersecurity-Docs)**, where I focus on explaining how to install, run, and use various cybersecurity tools and utilities.
+If you're interested in detailed **installation guides, tutorials, or how-to documentation** on setting up security tools, check out my other repository: **[Technical Documentation](https://github.com/AhsanA3/Cybersecurity-Technical-Writing/Technical-Documentation)**, where I focus on explaining how to install, run, and use various cybersecurity tools and utilities.
 
 ## Disclaimer
 
