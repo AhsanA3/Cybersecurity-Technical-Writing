@@ -1,6 +1,6 @@
 # Proof of Concept (PoC) Directory
 
-This repository documents various Proof of Concept (PoC) demonstrations for known vulnerabilities as part of my ongoing journey in the field of cybersecurity. The purpose of this repository is to showcase how specific vulnerabilities can be exploited in controlled environments for educational and research purposes. These PoC write-ups reflect my hands-on experience and exploration into penetration testing and vulnerability research.
+This repository documents various Proof of Concept (PoC) demonstrations for known vulnerabilities as part of my ongoing journey in the field of cybersecurity. The purpose of this repository is to showcase how specific vulnerabilities can be exploited in controlled environments for educational and research purposes. These PoC write-ups reflect my hands-on experience and exploration of penetration testing and vulnerability research.
 
 ## Overview
 
@@ -19,7 +19,7 @@ If you're interested in detailed **installation guides, tutorials, or how-to doc
 
 ## Disclaimer
 
-The Proof of Concept demonstrations included in this repository are for **educational and research purposes only**. They are intended for controlled environments such as labs or virtual machines and should never be applied on live systems without proper authorization. **Always perform penetration testing within legal and ethical boundaries.**
+The Proof of Concept demonstrations included in this repository are for **educational and research purposes only**.
 
 ## Usage
 
